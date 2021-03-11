@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>RuchikaDubey.NuGetProject</PackageId>
+    <Description>The project will use structs to store and retrieve information about teachers, subjects, and students.</Description>
+  </PropertyGroup>
+
+</Project>
